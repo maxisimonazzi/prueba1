@@ -72,7 +72,7 @@ plt.ylabel("Eje y")
 plt.savefig("migrafico.png")
 plt.show()"""
 
-
+print("Esta grafica esta muy buena")
 z = np.linspace(-10,10,100)
 print(z)
 y = (z**2)+2

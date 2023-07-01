@@ -11,9 +11,6 @@ def areacuadrado(a,b):
     area=a*b
     return area
 
-def lista(*l):
-    for i in l:
-        print(i)
-    return
+
 
 
